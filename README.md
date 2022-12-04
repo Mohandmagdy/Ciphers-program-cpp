@@ -10,7 +10,7 @@
 
 5.Baconian Cipher To encode a message, each letter of the plaintext is replaced by a group of five of the letters 'A' or 'B'. This replacement is a binary encoding. For example, SAMY will be baaba aaaaa abbaa bbaaa.
 
-66.Simple Substitution Cipher. In this cipher, a replacement alphabet is used to replace each letter by another one. See http://practicalcryptography.com/ciphers/simple-substitution-cipher/ For example, if we use this cipher alphabet: plain alphabet : abcdefghijklmnopqrstuvwxyz cipher alphabet: phqgiumeaylnofdxjkrcvstzwb
+6.Simple Substitution Cipher. In this cipher, a replacement alphabet is used to replace each letter by another one. See http://practicalcryptography.com/ciphers/simple-substitution-cipher/ For example, if we use this cipher alphabet: plain alphabet : abcdefghijklmnopqrstuvwxyz cipher alphabet: phqgiumeaylnofdxjkrcvstzwb
 
 7.Polybius Square Cipher See how it works at https://en.wikipedia.org/wiki/Polybius_square and https://www.dcode.fr/polybius-cipher using numbers. Plain text : I love C plus plus Cipher text: 24 32355215 13 41325144 41325144
 
